@@ -6,7 +6,7 @@ A customized, personalized digital avatar implemented by fine-tuning a large lan
 
 ChatGLM + PT , 4090 , Use a variety of datasets about 5.2K data , classificate and choice to get the best data
 
-The effect is not very satisfactory!!!Just fine-tuning doesn't achieve intelligence.
+The effect is not satisfactory!!!Just fine-tuning doesn't achieve intelligence.
 
 ![](./resource/p2.png)
 ![](./resource/p1.png)
