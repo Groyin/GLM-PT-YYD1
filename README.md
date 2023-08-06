@@ -9,4 +9,3 @@ ChatGLM + PT2 , 4090 , Use a variety of datasets about 5.2K data , classificate 
 The effect is not satisfactory!!!Just fine-tuning can't achieve the goal.
 
 ![](./resource/p2.png)
-![](./resource/p1.png)
