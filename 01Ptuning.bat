@@ -1,0 +1,3 @@
+cd ptuning
+..\env\python.exe main.py --do_train --train_file ..\answers.json --validation_file ..\dev.json --prompt_column prompt --response_column response  --history_column history  --overwrite_cache --model_name_or_path ..\model --output_dir ..\output --overwrite_output_dir --max_source_length 400 --max_target_length 400 --per_device_train_batch_size 4 --per_device_eval_batch_size 4 --gradient_accumulation_steps 8 --predict_with_generate --max_steps 2100 --logging_steps 50 --save_steps 100 --learning_rate 2e-2 --pre_seq_len 128
+pause
